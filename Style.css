@@ -3,6 +3,7 @@
   height: 50px;
   margin: 20px;
   padding: 20px;
+  /*background-color: royalblue;*/
 }
 @font-face { font-family: CinzelDecorative; src: url('CinzelDecorative-Bold.otf'); }
 @font-face { font-family: Assistant; src: url('Assistant-Regular.otf'); }
@@ -12,8 +13,7 @@ body {
 h1 {
   color: #432371;
   font-family: CinzelDecorative;
-  background-color: #714674;
-  
+
 }
 h2 {
   color: #432371;
