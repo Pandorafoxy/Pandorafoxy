@@ -1,0 +1,35 @@
+     .div1{
+  width: auto;
+  height: 50px;
+  margin: 20px;
+  padding: 20px;
+}
+@font-face { font-family: CinzelDecorative; src: url('CinzelDecorative-Bold.otf'); }
+@font-face { font-family: Assistant; src: url('Assistant-Regular.otf'); }
+body {
+  background-color: #faae7b;
+}
+h1 {
+  color: #432371;
+  font-family: CinzelDecorative;
+  background-color: #714674;
+  
+}
+h2 {
+  color: #432371;
+  font-family: Assistant;
+  
+}
+h3 {
+  color: #432371;
+  font-family: Assistant;
+}
+p {
+  color: #432371;
+  font-family: Assistant;
+}
+.div2 {
+  float: right;
+  font-size: 13px;
+  font-weight: 100;
+}
