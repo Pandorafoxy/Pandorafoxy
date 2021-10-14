@@ -4,28 +4,28 @@
   margin: 20px;
   padding: 20px;
 }
-@font-face { font-family: CinzelDecorative; src: url('CinzelDecorative-Bold.otf'); }
-@font-face { font-family: Assistant; src: url('Assistant-Regular.otf'); }
+
 body {
   background-color: #faae7b;
 }
 h1 {
   color: #432371;
-  font-family: CinzelDecorative;
+  font-family: 'Cinzel Decorative', cursive;
 
 }
 h2 {
   color: #432371;
-  font-family: Assistant;
+  font-family: 'Cinzel', serif;
   
 }
 h3 {
   color: #432371;
-  font-family: Assistant;
+  font-family: 'Cinzel', serif;
+
 }
 p {
   color: #432371;
-  font-family: Assistant;
+  font-family: 'Assistant', sans-serif;
 }
 .div2 {
   float: right;
